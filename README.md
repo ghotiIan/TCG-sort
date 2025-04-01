@@ -50,4 +50,4 @@ npm run dev
 - display the card by image, name, rarity, set
 
 ## License
-[View it here](LICENSE)
+[View it here](License)
