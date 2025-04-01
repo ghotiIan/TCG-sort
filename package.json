@@ -1,0 +1,14 @@
+{
+  "name": "tcg-sort",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^1.13.4"
+  },
+  "scripts": {
+    "dev": "turbo run dev"
+  }
+}
